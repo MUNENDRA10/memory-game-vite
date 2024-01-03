@@ -16,4 +16,4 @@ You can see your app at http://localhost:3000
 <hr>
 <br>
 
-![screenshot](./src/images/Vite-React.png)
+![screenshot](./Memory/src/images/Vite-React.png)
